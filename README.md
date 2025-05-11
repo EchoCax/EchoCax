@@ -15,12 +15,24 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,html,css,js,ts,qt,py" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,html,css,js,ts,qt,py,go" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,clion,webstorm,rider,idea,pycharm,visualstudio,vscode," />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cmake,docker,github,git,gitlab,mysql,redis" />
+  </a>
+</p>
+<!--游戏开发-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=" />
   </a>
 </p>
 
