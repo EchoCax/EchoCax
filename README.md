@@ -13,9 +13,9 @@
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
 
-[<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={TITLE}&fontSize=90&fontAlign=50&fontAlignY=30&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Hello%20Wrold!!!&fontColor=	000000&fontSize=30&animation=fadeIn&section=header&reversal=true)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Hello%20Wrold!!!&fontColor=	000000&fontSize=30&animation=fadeIn&section=header&reversal=true />
+</p>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EchoCax&bg_color=ccb9f9&color=210908&line=ce78ce&point=e85959&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
