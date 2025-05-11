@@ -24,10 +24,10 @@
 <!--游戏开发-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender,maya,au,ae,pr,ai," />
+    <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender,au,ae,pr,ai," />
   </a>
 </p>
-p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,windows" />
   </a>
