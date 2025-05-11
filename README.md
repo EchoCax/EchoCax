@@ -15,10 +15,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,html,css,js" />
   </a>
 </p>
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EchoCax&bg_color=ccb9f9&color=210908&line=ce78ce&point=e85959&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
