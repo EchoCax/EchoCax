@@ -4,15 +4,7 @@
 ### 本人是一个热爱学习的人，能够提升自己的效率，把每一件事情办好
 #### 热爱着生活、摄影、动画、游戏以及IT互联网事业
 
-####                              正在学习
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![Java Badge](https://img.shields.io/badge/Java-092E20?logo=java&logoColor=fff&style=flat)
-![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
-
+<h1>正在学习：</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,html,css,js,ts,qt,py,go" />
@@ -26,13 +18,18 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cmake,docker,github,git,gitlab,mysql,redis" />
+    <img src="https://skillicons.dev/icons?i=cmake,docker,github,git,gitlab,mysql,redis,nginx" />
   </a>
 </p>
 <!--游戏开发-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=" />
+    <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender,maya,au,ae,pr,ai," />
+  </a>
+</p>
+p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows" />
   </a>
 </p>
 
