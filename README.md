@@ -5,7 +5,7 @@
 #### 热爱着生活、摄影、动画、游戏以及IT互联网事业
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={TITLE}&fontSize=90&fontAlign=50&fontAlignY=30&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={Hello Wrold!}&fontSize=90&fontAlign=50&fontAlignY=30&desc={技术宅改变世界}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 ####                              正在学习
