@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Long+Cang&weight=500&size=30&pause=1000&center=true&vCenter=true&width=444&height=73&lines=%E5%B8%8C%E6%9C%9B%E4%BD%A0%E8%83%BD%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E8%B7%AF%E4%B8%8A%E5%8E%BB%E5%A5%8B%E6%96%97%EF%BC%81)](https://git.io/typing-svg)
 
 ## Hello everyone, I am EchoCax !👋
-### 本人是一个热爱学习的人，能够提升自己的效率，把每一件事情办好
+### 本人是一个热爱学习的人，希望能够提升自己的效率，把每一件事情办好
 #### 热爱着生活、摄影、动画、游戏以及IT互联网事业
 
 <h1>正在学习：</h1>
@@ -12,7 +12,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,clion,webstorm,rider,idea,pycharm,visualstudio,vscode," />
+    <img src="https://skillicons.dev/icons?i=clion,webstorm,rider,idea,pycharm,visualstudio,vscode," />
   </a>
 </p>
 
