@@ -36,3 +36,5 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EchoCax&bg_color=ccb9f9&color=210908&line=ce78ce&point=e85959&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EchoCax&layout=compact&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=EchoCax)](https://github.com/ryo-ma/github-profile-trophy)
